@@ -1,0 +1,1 @@
+http://djalma.blog.br/material-texto/git-book.pdf
